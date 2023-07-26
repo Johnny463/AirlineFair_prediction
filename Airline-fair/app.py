@@ -53,86 +53,62 @@ def predict():
         # Get the value of the "Airlines" field from the form
       
         # Set variables based on the selected airline
-        Air_India = 0
-        GoAir = 0
-        IndiGo = 0
-        Jet_Airways = 0
-        Jet_Airways_Business = 0
-        Multiple_carriers = 0
-        Multiple_carriers_Premium_economy = 0
-        SpiceJet = 0
-        Trujet = 0
-        Vistara = 0
-        Vistara_Premium_economy = 0
-        
-        if selected_airline == 'Air_India':
-            Air_India = 1
-        elif selected_airline == 'GoAir':
-            GoAir = 1
-        elif selected_airline == 'IndiGo':
-            IndiGo = 1
-        elif selected_airline == 'Jet_Airways':
-            Jet_Airways = 1
-        elif selected_airline == 'Jet_Airways_Business':
-            Jet_Airways_Business = 1
-        elif selected_airline == 'Multiple_carriers':
-            Multiple_carriers = 1
-        elif selected_airline == 'Multiple_carriers_Premium_economy':
-            Multiple_carriers_Premium_economy = 1
-        elif selected_airline == 'SpiceJet':
-            SpiceJet = 1
-        elif selected_airline == 'Trujet':
-            Trujet = 1
-        elif selected_airline == 'Vistara':
-            Vistara = 1
-        elif selected_airline == 'Vistara_Premium_economy':
-            Vistara_Premium_economy = 1
-# Now you have the value of Air_India set to 1 and the rest of the airline variables set to 0.
+        airline_mapping = {
+            'Air_India': 1,
+            'GoAir': 2,
+            'IndiGo': 3,
+            'Jet_Airways': 4,
+            'Jet_Airways_Business': 5,
+            'Multiple_carriers': 6,
+            'Multiple_carriers_Premium_economy': 7,
+            'SpiceJet': 8,
+            'Trujet': 9,
+            'Vistara': 10,
+            'Vistara_Premium_economy': 11
+        }
+        selected_airline = None
+        airline_numeric = airline_mapping.get(selected_airline, 0)
+# Now your selcted airline set to 1 and the rest of the airline variables set to 0.
 # You can use these variables along with other input features for your prediction model.
 
+       #converting categorical value into numeric through mapping
+        stops_mapping = {
+            'non-stop': 0,
+            '1 stop': 1,
+            '2 stops': 2,
+            '3 stops': 3,
+            '4 stops': 4
+            }
+        total_stops = None
+        total_stops_numeric = stops_mapping.get(total_stops, 0)
        
-        if Total_Stops=="non-stop":
-            Total_Stops_int=0
-        if Total_Stops=="1 stop":
-            Total_Stops_int=1
-        if Total_Stops=="2 stops":
-            Total_Stops_int=2
-        if Total_Stops=="3 stops":
-            Total_Stops_int=3
-        if Total_Stops=="4 stops":
-            Total_Stops_int=4
-          
-        # Assuming this code is part of a web application where form data is being handled
 
-            # Get the value of the "Source" field from the form
-            
-        print("source")   
-        Source_Chennai=0
-        Source_Delhi=0
-        Source_Kolkata=0
-        Source_Mumbai=0
-    
-        # Set the variables based on the selected source
-        if Source == "Chennai": Source_Chennai = 1  
-        elif Source == "Delhi": Source_Delhi = 1 
-        elif Source == "Kolkata":    Source_Kolkata = 1 
-        elif Source == "Mumbai": Source_Mumbai = 1
+        # Assuming this code is part of a web application where form data is being handled
+        # Get the value of the "Source" field from the form
+                        
+        #converting categorical value into numeric through mapping               
+        source_mapping = {
+                'Chennai': 1,
+                'Delhi': 2,
+                'Kolkata': 3,
+                'Mumbai': 4 }
+        selected_source= None
+        source_numeric = source_mapping.get(selected_source, 0)
+       
+         #converting categorical value into numeric through mapping       
+        destination_mapping = {
+            'Cochin': 1,
+            'Delhi': 2,
+            'Hyderabad': 3,
+            'Kolkata': 4,
+            'New Delhi': 5
+        }
+        selected_destination = None
+        destination_numeric = destination_mapping.get(selected_destination, 0)
         
-        
-        # Get the value of the "Destination" field from the form
-        
-        Destination_Cochin=0
-        Destination_Delhi=0
-        Destination_Hyderabad=0
-        Destination_Kolkata=0
-        Destination_New_Delhi=0
-        if Destination == "Cochin": Destination_Cochin = 1  
-        elif Destination == "Delhi":   Destination_Delhi = 1 
-        elif Destination == "Hyderabad": Destination_Hyderabad = 1
-        elif Destination == "Kolkata": Destination_Kolkata = 1
-        elif Destination == "New Delhi": Destination_New_Delhi = 1
-    
-        ##Get Day and Month
+        categorical_features = [0] * (len(airline_mapping)  + len(source_mapping) + len(destination_mapping))
+        categorical_features[len(airline_mapping)  + len(source_mapping) + destination_numeric - 1] = 1 
+       ##Get Day and Month
         
         Date_of_Journey=pd.Series(Date_of_Journey)    
         Journey_Day=pd.to_datetime(Date_of_Journey).dt.day   
@@ -151,13 +127,11 @@ def predict():
         
         
         
-        #Prediction
-        prediction=model.predict([[ Total_Stops_int,Air_India, GoAir, IndiGo, Jet_Airways, Jet_Airways_Business,
-        Multiple_carriers, Multiple_carriers_Premium_economy, SpiceJet,Trujet, Vistara, Vistara_Premium_economy, Source_Chennai, Source_Delhi, Source_Kolkata, Source_Mumbai,
-        Destination_Cochin, Destination_Delhi, Destination_Hyderabad,  Destination_Kolkata, Destination_New_Delhi, Journey_Day,
-        Journey_Month, int(Duration), Dep_Time_hour,Arrival_Time_in_Hour]])
         
-        #Rounding
+        prediction_input = [total_stops_numeric] + categorical_features + [Journey_Day, Journey_Month, int(Duration), Dep_Time_hour, Arrival_Time_in_Hour]
+        
+        #Prediction
+        prediction = model.predict([prediction_input])
         output=round(prediction[0],2)
         if request.is_json:
             
