@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+    <title>Airline Price Prediction</title>
+</head>
+<body>
+    <!-- nav -->
+    <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
+        <div class="flex items-center flex-shrink-0 text-white mr-6">
+          <svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"/></svg>
+          <div style="text-align: center;">
+
+              <span class="font-semibold text-xl tracking-tight">Software Alliance</span>
+          </div>
+        </div>
+     
+         
+          
+        </div>
+      </nav>
+
+
+
+
+<!-- forms -->
+<form action="{{ url_for('predict')}}" method="post">
+
+    <div style="text-align: center;" >
+        <div>
+    <h4>
+        Select the Airline
+    </h4>
+    <div class="inline-block relative w-64">
+        
+        <select class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline" required='required', name="Airlines">
+            <option>IndiGo</option>
+            <option>Air India</option>
+            <option>Jet Airways</option>
+            <option>SpiceJet</option>
+            <option>Multiple carriers</option>
+            <option>GoAir</option>
+            <option>Air Asia</option>
+            <option>Vistara Premium economy</option>
+            <option>Jet Airways Business</option>
+            <option>Multiple carriers Premium economy</option>
+            <option>Trujet</option>
+            
+        </select>
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<div>
+    <h4>
+        Date of journey
+    </h4>
+    <div class="inline-block relative w-64">
+        <input type="date" placeholder="dd-mm-yyyy" required='required' name="Date_of_Journey">
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<div>
+    <h4>
+        Select the Source
+    </h4>
+    <div class="inline-block relative w-64">
+        
+        <select class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline" required='required' name="Source">
+            <option>Delhi</option>
+            <option>Kolkata</option>
+            <option>Banglore</option>
+            <option>Mumbai</option>
+            <option>Chennai</option>
+            
+            
+        </select>
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h4>
+            Select the Destination
+        </h4>
+        <div class="inline-block relative w-64">
+            
+        <select class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline" required='required'name="Destination">
+            <option>Cochin</option>
+            <option>Banglore</option>
+            <option>Delhi</option>
+            <option>New Delhi</option>
+            <option>Hyderabad</option>
+            <option>Kolkata</option>
+            
+            
+        </select>
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<div>
+    <h4>
+        Departure Time
+    </h4>
+    <div class="inline-block relative w-64">
+        <input type="time" placeholder="HH:mm" required='required' name="Dep_Time">
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            
+        </div>
+    </div>
+</div>  
+<br>
+<br>
+<div>
+    <h4>
+        Arival Time
+    </h4>
+    <div class="inline-block relative w-64">
+        <input type="time" placeholder="HH:mm" required='required' name="Arrival_Time">
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            
+        </div>
+    </div>
+</div>  
+<br>
+
+
+<h4>
+    Enter the duration time in minutes
+</h4>
+<input class="appearance-none bg-transparent border-none  text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none" type="text" placeholder="Enter duration time here" aria-label="Full name" required='required' name="Duration">
+<br>
+<br>
+<div>
+    <h4>
+        Enter the total stops
+    </h4>
+    <div class="inline-block relative w-64">
+        
+        <select class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline" required='required' name="Total_Stops">
+            <option>non-stop</option>
+            <option>1 stop</option>
+            <option>2 stops</option>
+            <option>3 stops</option>
+            <option>4 stops</option>
+            
+            
+            
+        </select>
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+<button class="transition duration-500 ease-in-out bg-blue-500 hover:bg-red-500 transform hover:-translate-y-1 rounded-full hover:scale-110 ...">
+    Predict Price
+</button>
+<br>
+<br>
+<br><br>
+
+
+
+
+
+
+</form>
+<h3>{{ prediction_text }}<h3></h3>
+</div>
+<style>
+    button, input, optgroup, select, textarea {
+    padding: 12px;
+    line-height: inherit;
+    color: inherit;
+}
+</style>
+    
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+</body>
+</html>
