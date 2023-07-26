@@ -6,9 +6,7 @@ The Airline Fare Prediction project is a Python-based machine learning applicati
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
