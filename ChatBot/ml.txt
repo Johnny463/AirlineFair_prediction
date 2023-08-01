@@ -1,0 +1,9 @@
+What is machine learning?	An umbrella term for solving problems through algorithms discovered by machines.
+Tell me more about machine learning	Machine learning is used in various fields like computer vision, speech recognition, and medicine.
+How does machine learning work?	Machine learning uses past data to make predictions about future data.
+Can you give an example of machine learning?	Sure! A common example is email filtering, where machine learning algorithms classify emails as spam or not.
+What are the benefits of machine learning?	Machine learning allows us to solve complex problems that would be cost-prohibitive for human programmers.
+Hello	Hi there! How can I assist you?
+Hi	Hey! How can I help you today?
+Hey	Hello! What can I do for you?
+Bye	Goodbye! Have a great day!
