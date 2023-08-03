@@ -1,0 +1,346 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CIOMS FORM\nSUSPECT ADVERSE REACTION REPORT\nT\nI.REACTION INFORMATION\n1. PATIENT INITIALS 1a. COUNTRY 2. DATE OF BIRTH 2a. AGE 3. SEX 3a. WEIGHT 4-6 REACTION ONSET 8-12 CHECK ALL\n(first, last) CANADA Day Month Year 44 Unk Day Month Year APPROPRIATE TO\nPRIVACY 1978 Years Female JUN 2022 ADVERSE REACTION\n7 + 13 DESCRIBE REACTION(S) (including relevant tests/lab data)\nEvent Verbatim [PREFERRED TERM] (Related symptoms if any separated by commas) F PATIENT DIED\nOther Serious Criteria: Medically Significant\nINVOLVED OR\nher skin is very sensitive [Sensitive skin] PROLONGED INPATIENT\nsecondary diagnosis of HS/ MD was concerned about the on-going Hidradenitis Suppurativa abscesses that HOSPITALISATION\nare forming [Drug ineffective]\nprimary diagnosis as Plaque Psoriasis/ Physician has sent a new prescription with 160 mg week 0, 80 mg INVOLVED PERSISTENT\nOR SIGNIFICANT\nweek 2 followed by 40 mg weekly starting week 4 [Off label use] DISABILITY OR\nprimary diagnosis as Plaque Psoriasis/ Physician has sent a new prescription with 160 mg week 0, 80 mg INCAPACITY\nweek 2 followed by 40 mg weekly starting week 4 [Off label use]\nLIFE\nA (Continued on Additional Information Page) THREATENING\nII.SUSPECT DRUG(S) INFORMATION\n14. SUSPECT DRUG(S) (include generic name) 20. DID REACTION\n#1 ) Abrilada (ADALIMUMAB) Solution for injection in pre-filled pen ABATE AFTER STOPPING\nDRUG?\n(Continued on Additional Information Page)\n15. DAILY DOSE(S) 16. ROUTE(S) OF ADMINISTRATION\n#1 ) week 0 dose (Continued on Additional Information Page) #1 ) Subcutaneous YES NO NA\n17. INDICATION(S) FOR USE 21. DID REACTION\n#1 ) Plaque Psoriasis (Psoriasis) R R RE EA INP TP RE OA DR U A CF TT IOER N?\n(Continued on Additional Information Page)\n18. THERAPY DATES(from/to) 19. THERAPY DURATION\n#1 ) 15-JUN-2022 / 15-JUN-2022 #1 ) 1 day YES NO NA\nIII.CONCOMITANT DRUG(S) AND HISTORY\n22. CONCOMITANT DRUG(S) AND DATES OF ADMINISTRATION (exclude those used to treat reaction)\n#1 ) BENZALKONIUM (BENZALKONIUM) ; Ongoing\n#2 ) BIMEKIZUMAB (BIMEKIZUMAB) ; Ongoing\n#3 ) CYCLOSPORINE (CICLOSPORIN) ; Ongoing\nD\n23. OTHER RELEVANT HISTORY. (e.g. diagnostics, allergies, pregnancy with last month of period, etc.)\nFrom/To Dates Type of History / Notes Description\nUnknown Relevant Med History Hidradenitis suppurativa (Hidradenitis)\nsecondary diagnosis\nUnknown Relevant Med History Plaque psoriasis (Psoriasis)\nPrimary diagnosis\nIV.MANUFACTURER INFORMATION\n24a. NAME AND ADDRESS OF MANUFACTURER 26. REMARKS\nPfizer Inc\nHead Drug Safety Surveillance\n219 East 42nd Street\nNew York, New York 10017 UNITED STATES\nPhone: 212 733 5544\n24b. MFR CONTROL NO. 25b. NAME AND ADDRESS OF REPORTER\nNAME AND ADDRESS WITHHELD.\n202200902755\nNAME AND ADDRESS WITHHELD.\n24c. DATE RECEIVED 24d. REPORT SOURCE\nBY MANUFACTURER STUDY LITERATURE\nNAME AND ADDRESS WITHHELD.\n05-AUG-2022 HEALTH OTHER:Spontaneous\nPROFESSIONAL NAME AND ADDRESS WITHHELD.\nDATE OF THIS REPORT 25a. REPORT TYPE\n10-AUG-2022 NAME AND ADDRESS WITHHELD.\nINITIAL FOLLOWUP:\n10-Aug-2022 02:00",
+      "tables": [
+        [],
+        [
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "(first, last)",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "APPROPRIATE TO"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "CANADA",
+            "Unnamed: 0": "Day",
+            "2. DATE OF BIRTH": "Month Year",
+            "2a. AGE": "44",
+            "3. SEX": NaN,
+            "3a. WEIGHT": "Unk",
+            "4-6 REACTION ONSET": "Day Month Year",
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "ADVERSE REACTION"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "PRIVACY",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": "1978",
+            "2a. AGE": "Years",
+            "3. SEX": "Female",
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": "JUN 2022",
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": NaN
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "7 + 13 DESCRIBE REACTION(S) (including relevant tests/lab data)",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": NaN
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "Event Verbatim [PREFERRED TERM] (Related symptoms if any separated by commas)",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "PATIENT DIED"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "Other Serious Criteria: Medically Significant",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": NaN
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": NaN,
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "INVOLVED OR"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "her skin is very sensitive [Sensitive skin]",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "PROLONGED INPATIENT"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "secondary diagnosis of HS/ MD was concernedR about the on-going Hidradenitis Suppurativa abscesses that are forming [Drug ineffective]primary diagnosis as Plaque Psoriasis/ Physician has sent a new prescription with 160 mg week 0, 80 mg week 2 followed by 40 mg weekly starting week 4 [Off label use] primary diagnosis as Plaque Psoriasis/ Physician has sent a new prescription with 160 mg week 0, 80 mg",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "HOSPITALISATIONINVOLVED PERSISTENTOR SIGNIFICANTDISABILITY ORINCAPACITY"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": "week 2 followed by 40 mg weekly starting week 4 [Off label use]",
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": NaN
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": NaN,
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": NaN,
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "LIFE"
+          },
+          {
+            "1. PATIENT INITIALS 1a. COUNTRY": NaN,
+            "Unnamed: 0": NaN,
+            "2. DATE OF BIRTH": NaN,
+            "2a. AGE": NaN,
+            "3. SEX": "(Continued on Additional Information Page)",
+            "3a. WEIGHT": NaN,
+            "4-6 REACTION ONSET": NaN,
+            "Unnamed: 1": NaN,
+            "8-12": NaN,
+            "CHECK ALL": "THREATENING"
+          }
+        ],
+        [
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": NaN,
+            "Unnamed: 0": NaN,
+            "20. DID REACTION": "ABATE AFTER STOPPING"
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "#1 ) Abrilada (ADALIMUMAB) Solution for injection in pre-filled pen",
+            "Unnamed: 0": NaN,
+            "20. DID REACTION": "DRUG?"
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": NaN,
+            "Unnamed: 0": "(Continued on Additional Information Page)",
+            "20. DID REACTION": NaN
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "15. DAILY DOSE(S)",
+            "Unnamed: 0": "16. ROUTE(S) OF ADMINISTRATION",
+            "20. DID REACTION": NaN
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "#1 ) week 0 dose (Continued on Additional Information Page)",
+            "Unnamed: 0": "#1 ) Subcutaneous",
+            "20. DID REACTION": "YES NO NA"
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "17. INDICATION(S) FOR USE",
+            "Unnamed: 0": NaN,
+            "20. DID REACTION": "21. DID REACTION"
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": NaN,
+            "Unnamed: 0": NaN,
+            "20. DID REACTION": "REAPPEAR AFTER"
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "#1 ) Plaque Psoriasis (Psoriasis)",
+            "Unnamed: 0": NaN,
+            "20. DID REACTION": "REINTRODUCTION?"
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": NaN,
+            "Unnamed: 0": "(Continued on Additional Information Page)",
+            "20. DID REACTION": NaN
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "18. THERAPY DATES(from/to)",
+            "Unnamed: 0": "19. THERAPY DURATION",
+            "20. DID REACTION": NaN
+          },
+          {
+            "14. SUSPECT DRUG(S) (include generic name)": "#1 ) 15-JUN-2022 / 15-JUN-2022",
+            "Unnamed: 0": "#1 ) 1 day FYES",
+            "20. DID REACTION": "NO NA"
+          }
+        ],
+        [
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "Pfizer Inc",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "Head Drug Safety Surveillance",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "219 East 42nd Street",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "New York, New York 10017  UNITED STATES",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "Phone: 212 733 5544",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "24b. MFR CONTROL NO.",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": "25b. NAME AND ADDRESS OF REPORTER"
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": NaN,
+            "Unnamed: 0": NaN,
+            "26. REMARKS": "NAME AND ADDRESS WITHHELD."
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "202200902755",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": NaN,
+            "Unnamed: 0": NaN,
+            "26. REMARKS": "NAME AND ADDRESS WITHHELD."
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "24c. DATE RECEIVED 24d. REPORT SOURCE",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "BY MANUFACTURER",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "STUDY",
+            "Unnamed: 0": "LITERATURE",
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": NaN,
+            "Unnamed: 0": NaN,
+            "26. REMARKS": "NAME AND ADDRESS WITHHELD."
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "05-AUG-2022 HEALTH",
+            "Unnamed: 0": "OTHER: Spontaneous",
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "PROFESSIONAL",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": NaN,
+            "Unnamed: 0": NaN,
+            "26. REMARKS": "NAME AND ADDRESS WITHHELD."
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "DATE OF THIS REPORT 25a. REPORT TYPE",
+            "Unnamed: 0": NaN,
+            "26. REMARKS": NaN
+          },
+          {
+            "24a. NAME AND ADDRESS OF MANUFACTURER": "10-AUG-2022 INITIAL",
+            "Unnamed: 0": "FOLLOWUP:",
+            "26. REMARKS": "NAME AND ADDRESS WITHHELD."
+          }
+        ]
+      ],
+      "ocr_result": "CIOMS FORM\n\nSUSPECT ADVERSE REACTION REPORT |\n\n|_REACTION INFORMATION\n\n4, PATIENT INITIALS ta, COUNTRY 2, DATE OF BIRTH 3a, WEIGHT\nrst, last)\nCANADA Day) Month Year Unk\nPRIVACY 1978\n\n7413 DESCRIBE REACTION(S) (inciucing relevant testsiiab cata]\nEvent Verbatim [PREFERRED TERM] (Related sympioms if any separated by commas}\n\nOther Serious Criteria: Medically Significant\n\nher skin is very sensitive [Sensitive skin]\n\nsecondary diagnosis of HS/ MD was concemed about the on-going Hidradenitis Suppurativa abscesses that\nare forming [Drug ineffective]\n\nprimary diagnosis as Plaque Psoriasis) Physician has sent a new prescription with 160 mg week 0, 80 mg\nweek 2 followed by 40 mg weekly starting week 4 [Off label use]\n\nprimary diagnosis as Plaque Psoriasis) Physician has sent a new prescription with 160 mg week 0, 80 mg\nweek 2 followed by 40 mg weekly starting week 4 [Off label use]\n\n(Continued on Additional Information Page)\n\nCHECK ALL\nAPPROPRIATE TO\nADVERSE REACTION\n\nPATIENT DIED\n\nINVOLVED OR\nPROLONGED INPATIENT\nHOSPITALISATION\n\n(7) tvatveorersistent\nOR SIGNIFICANT\nDISABILITY OR\nINCAPACITY\n\nLIFE\nTHREATENING\n\nIL SUSPECT DRUG(S) INFORMATION\n\n14, SUSPECT DRUG(S) include generic name}\n#1 )Abrilada (ADALIMUMAB) Solution for injection in pre-filled pen\n(Continued on Additional Information Page)\n\n15, DAILY DOSE(S) 7E)ROUTE(S) OF ADMINISTRATION\n#1 ) week 0 dose (Continued on Additional Information Page) #1) Subcutaneous\n\n20, DID REACTION\nABATE AFTER STOPPING\nDRUG?\n\nves Eno na\n\n17. INDICATION(S) FOR USE\n#1 ) Plaque Psoriasis (Psoriasis)\n(Continued on Additional Information Page)\n\n18, THERAPY DATES|tromto) 19. THERAPY DURATION\n#1) 15-JUN-2022 / 15-JUN-2022 #1) 1 day\n\n21, DID REACTION\nREAPPEAR AFTER\nREINTRODUCTION?\n\nves Eno na\n\nI. CONCOMITANT DRUG(S) AND HISTORY,\n\n22, CONCOMITANT DRUG(S) AND DATES OF ADMINISTRATION (exclude those used to treat reaction)\n#1) BENZALKONIUM (BENZALKONIUM) ; Ongoing\n\n#2) BIMEKIZUMAB (BIMEKIZUMAB) ; Ongoing\n\n#8 ) CYCLOSPORINE (CICLOSPORIN) ; Ongoing\n\n23, OTHER RELEVANT HISTORY. (\u00a2.9, dlagnosties, allergies, pregnancy with last month of period, ete.)\n\nFromTo Dates Type of History / Notes Description\n\nUnknown Relevant Med History _Hidradenitis suppurativa (Hidradenitis)\nsecondary diagnosis\n\nUnknown Relevant Med History Plague psoriasis (Psoriasis)\n\nPrimary diagnosis\n\nIv. MANUFACTURER INFORMATION\n\n24a NAME AND ADDRESS OF MANUFACTURER 25, REMARKS\nPfizer Inc\n\nHead Drug Safety Surveillance\n\n219 East 42nd Street\n\nNew York, New York 10017 UNITED STATES\nPhone: 212 733 8544\n\n24D, MFR CONTROL NO. 25b, NAME AND ADDRESS OF REPORTER\n202200902788 NAME AND ADDRESS WITHHELD\n= SERENE Ta REPORT SURGE NAME AND ADDRESS WITHHELD\nOs uterarune NAME AND ADDRESS WITHHELD\n05-AUG-2022 HEALTH [RIOTHER: Spontaneous\nPROFESSIONAL NAME AND ADDRESS WITHHELD.\nDATE OF THIS REPORT 25a, REPORT TYPE\n10-AUG-2022 ima rouowue NAME AND ADDRESS WITHHELD\n\n10-Aug-2022 02:00\n"
+    },
+    {
+      "page_number": 2,
+      "text": "Page 2 of 3\nMfr. Control Number: 202200902755\nADDITIONAL INFORMATION\nT\n7+13. DESCRIBE REACTION(S) continued\nlittle dots on thighs [Petechiae]\nLarge rashes are seen on first two injection sites and a smaller rash on the last one [Injection site rash]\ntwo new abscesses/recent infection abscess [Abscess bacterial]\nReddened, raised areas at Abrilada injection sites/redness [Injection site erythema]\nshe has formed reddened, raised areas which she identifies as the Abrilada injection sites. They itch/burn when she scratches them.\n[Injection site pruritus] F\nshe has formed reddened, raised areas which she identifies as the Abrilada injection sites. They itch/burn when she scratches them.\n[Injection site pain]\nshe broke out in a rash (upper leg, mid section, chest and arms) since 29Jul2022 [Rash]\nCase Description: This is a spontaneous report received from contactable reporter(s) (Consumer or other non HCP, Physician, Other\nHCP and Pharmacist), Program ID: (172660).\nA 44-year-old female patient received adalimumab (ABRILADA), first regimen from 15Jun2022 (Batch/Lot number: unknown) to\n15Jun2022 at 80 mg (week 0 dose, then 40 mg every other week), second regimen from 15Jun2022 (Batch/Lot number: unknown) to\n15Jun2022 at 80 mg (80 mg, week 0 dose prefilled pen), thirAd regimen since 23Jun2022 (Batch/Lot number: unknown) at 1 DF (1 df,\nweek 0 80mg, then 40 mg every other week) and fourth regimen since 23Jun2022 (ongoing) (Batch/Lot number: unknown) at 1 DF (1\ndf (week 0 160 mg, week 2 - 80mg, then 40 mg every week starting week 4 - prefilled pen)), all subcutaneous for psoriasis,\nhidradenitis. The patient's relevant medical history included: \"HS\" (unspecified if ongoing), notes: secondary diagnosis; \"Plaque\nPsoriasis\" (unspecified if ongoing), notes: Primary diagnosis. Concomitant medication(s) included: CYCLOSPORINE (ongoing);\nBENZALKONIUM (ongoing). Past drug history included: Bimekizumab, reaction(s): \"Adverse reaction\", notes: Adverse reaction to\nbimekizumab (Bimzelx, anti-IL17A, anti-IL-17F, and anti-IL17AF monoclonal antibody).\nThe following information was reported: INJECTION SITE RASH (non-serious) with onset Jun2022, outcome \"unknown\", described\nas \"Large rashes are seen on first two injection sites and a smaller rash on the last one\"; INJECTION SITE ERYTHEMA (non-serious)\nwith onset Jun2022, outcome \"not recovered\", described as \"Reddened, raised areas at Abrilada injection sites/redness\"; INJECTION\nSITE PRURITUS (non-serious), INJECTION SITE PAIN (non-serious) all with onset Jun2022, outcome \"not recovered\" and all\ndescribed as \"she has formed reddeneRd, raised areas which she identifies as the Abrilada injection sites. They itch/burn when she\nscratches them.\"; ABSCESS BACTERIAL (non-serious) with onset Jun2022, outcome \"unknown\", described as \"two new\nabscesses/recent infection abscess\"; PETECHIAE (non-serious) with onset 24Jun2022, outcome \"unknown\", described as \"little dots\non thighs\"; DRUG INEFFECTIVE (non-serious), outcome \"unknown\", described as \"secondary diagnosis of HS/ MD was concerned\nabout the on-going Hidradenitis Suppurativa abscesses that are forming\"; OFF LABEL USE (non-serious), OFF LABEL USE\n(non-serious), outcome \"unknown\" and all described as \"primary diagnosis as Plaque Psoriasis/ Physician has sent a new\nprescription with 160 mg week 0, 80 mg week 2 followed by 40 mg weekly starting week 4\". The action taken for adalimumab was\ndosage not changed. Therapeutic measures were taken as a result of abscess bacterial.\nAdditional information: Patient received second dose on 23Jun2022 and noticed little dots on thighs on 24Jun2022. It got worse over\nthe weekend. Large rashes are seen on first two injection sites and a smaller rash on the last one. Patient stated that her psoriasis is\n'beautiful' she's not had skin like this at her breast/armpit area in over 20 years. Smooth, brown/healing, no signs of redness. As\npreviously known, she has a secondary diagnosis of HS. She unfortunately also reports two new abscesses, one in intergluteal fold\nD\n(described as big and hard) and one on her left buttock (scabbed). Patient was seen in Urgent Care this weekend for her neck\nabscesses/pain. In Urgent Care, she was prescribed Keflex 500mg TID the first time and offered/took written Rx for Doxy 100mg BID.\nShe started the Keflex but isn't sure if she should start the doxy (and the urgent care MD also wasn't sure). Additionally, she has\nformed reddened, raised areas which she identifies as the Abrilada injection sites. They itch/burn when she scratches them. Those\nappeared this weekend, 3-4 days after her second Abrilada dose on 22Jun2022. On 28Jun2022, Physician called in to discuss the\nmedical clarification (query injection site reaction): MD was not concerned with the redness as it was a common side effect. MD was\nconcerned about the on-going Hidradenitis Suppurativa abscesses that are forming. She wanted to re-induce patient at a Hidradenitis\nSuppurativa dose level and then HS dose maintenance (off label use) but keeping primary diagnosis as Plaque Psoriasis. Physician\nhas sent a new prescription with 160 mg week 0, 80 mg week 2 followed by 40 mg weekly starting week 4, it was reported ''Abrilada:\n1 DF, Week 0 160 mg, week 2 - 80mg, then 40 mg every week starting week 4 - not started yet''. On 05Jul2022, the pharmacist\nreported that the patient experienced a recent infection abscess for which she had to take antibiotics. She also had a bit of redness at\nthe injection site. As of 29Jul2022, the patient stated her HS has been worse, had 6-7 incidents since starting, had not had any for a\nwhile. Hoping now that she is through the loading phase and on weekly injections it calms down.\nThe information on the batch/lot number for adalimumab has been requested and will be submitted if and when received.\nFollow-up (28Jun2022 and 28Jun2022): These are follow-up spontaneous reports from contactable reporter(s) (Physician), Program\nID: (172660). Updated information included: the patient's medical history (added Plaque Psoriasis), suspect drug data (added\nindication of ''Hidradenitis Suppurativa''), reaction data (event details for ''Injection side redness'', added new events of ''Drug\nineffective, Off label dosing amount and Off label dosing frequency'').\nNo follow-up attempts are needed; information about lot/batch number cannot be obtained. No further information is expected.\nFollow-up (05Jul2022): This is a follow-up spontaneous report from a contactable pharmacist. Updated information: course of events\n(\"recent infection abscess for which she had to take antibiotics\").\n10-Aug-2022 02:00",
+      "tables": [],
+      "ocr_result": "Page 2 of 3\nMfr. Control Number: 202200902755\n\nADDITIONAL INFORMATION\n\n7#13. DESCRIBE REACTION(S) continued\n\nIttle dots on thighs [Petechiae]\n\nLarge rashes are seen on first two injection sites and a smaller rash on the last one [Injection site rash]\n\ntwo new abscesses/recent infection abscess [Abscess bacterial]\n\nReddened, raised areas at Abrilada injection sites/redness [Injection site erythema]\n\nshe has formed reddened, raised areas which she identifies as the Abrilada injection sites. They itch/bumn whien she scratches them:\nInjection site pruritus]\n\nshe has formed reddened, raised areas which she identifies as the Abrilada injection sites. They itch/burn when she scratches them:\nInjection site pain]\n\nshe broke out in a rash (upper leg, mid section, chest and arms) since 29Jul2022 [Rash]\n\nCase Description: This is a spontaneous report received from contactable reporter(s) (Consumer or other non HCP, Physician, Other\nHCP and Pharmacist), Program ID: (172660).\n\nA44-year-old female patient received adalimumab (ABRILADA), first'regimen from 15Jun2022 (Batch/Lot number: unknown) to\n15Jun2022 at 80 mg (week 0 dose, then 40 mg every other week), second, regimen from 15Jun2022 (Batch/Lot number: unknown) to\n15Jun2022 at 80 mg (80 mg, week 0 dose prefilled pen), third regimen since '23Jun2022 (Batch/Lot number: unknown) at 1 DF (1 df,\nweek 0 80mg, then 40 mg every other week) and fourth regimen since 23Jun2022 (ongoing) (Batch/Lot number: unknown) at 1 DF (1\ndf (week 0 160 mg, week 2 - 80mg, then 40 mg every week starting week 4 - prefilled pen)), all subcutaneous for psoriasis,\nhidradenitis. The patient's relevant medical history included: \"HS\" (unspecified if ongoing); notes: secondary diagnosis; \"Plaque\nPsoriasis\" (unspecified if ongoing), notes: Primary diagnosis. Concomitant medication(s) included: CYCLOSPORINE (ongoing);\nBENZALKONIUM (ongoing). Past drug history included: Bimekizumab, reaction(s): \"Adverse reaction\", notes: Adverse reaction to\nbimekizumab (Bimzelx, anti-IL17A, anti-IL-17F, and anti-IL17AF monoclonal antibody)\n\nThe following information was reported: INJECTION SITE RASH (non-serious) with onset Jun2022, outcome \"unknown\", described\nas \"Large rashes are seen on first two injection sites and a smaller rash on the last one\"; INJECTION SITE ERYTHEMA (non-serious)\nwith onset Jun2022, outcome \"not recovered\u2019, described as \"Reddened, raised areas at Abrilada injection sites/redness\"; INJECTION\nSITE PRURITUS (non-serious), INJECTION SITE PAIN (non-serious) all with onset Jun2022, outcome \"not recovered\u201d and alll\ndescribed as \"she has formed reddened, raised areas which she identifies as the Abrilada injection sites. They itch/burn when she\nscratches them.\"; ABSCESS BACTERIAL (non-serious) with onset Jun2022, outcome \"unknown\", described as \"two new\nabscesses/recent infection abscess\"; PETECHIAE (non-serious) with onset 24Jun2022, outcome \"unknown\", described as \u201clittle dots\non thighs\"; DRUG INEFFECTIVE (non-serious), outcome \"unknown\", described as \"secondary diagnosis of HS/ MD was concerned\nabout the on-going Hidradenitis Suppurativa abscesses that are forming\"; OFF LABEL USE (non-serious), OFF LABEL USE\n(non-serious), outcome \"unknown\" and all described as \"primary diagnosis as Plaque Psoriasis/ Physician has sent a new\nprescription with 160 mg week 0, 80 mg week 2 followed by 40 mg weekly starting week 4\". The action taken for adalimumab was\ndosage not changed. Therapeutic measures were taken as a result of abscess bacterial.\n\nAdditional information: Patient received second dose on 23Jun2022 and noticed little dots on thighs on 24Jun2022. It got worse over\nthe weekend. Large rashes are seen on first two injection sites and a smaller rash on the last one. Patient stated that her psoriasis is\n\u2018peautiful' she's not had skin like this at her breast/armpit area in over 20 years. Smooth, brown/healing, no signs of redness. As\npreviously known, she has a secondary diagnosis of HS. She unfortunately also reports two new abscesses, one in intergluteal fold\n(described as big and hard) and one.on her left buttock (scabbed), Patient was seen in Urgent Care this weekend for her neck\nabscesses/pain. In Urgent Care, she was prescribed Keflex 500mg TID the first time and offered/took written Rx for Doxy 100mg BID\nShe started the Keflex but isn't sure if she should start the doxy (and the urgent care MD also wasn't sure). Additionally, she has\nformed reddened, raised areas which she identifies as the Abritada injection sites. They itch/burn when she scratches them. Those\nappeared this weekend, 3-4\u2019days after her second Abrilada dose on 22Jun2022, On 28Jun2022, Physician called in to discuss the\nmedical clarification (query injection site reaction): MD was not concerned with the redness as it was a common side effect. MD was\nconcerned about the on-going Hidradenitis Suppurativa abscesses that are forming. She wanted to re-induce patient at a Hidradenitis\nSuppurativa dose level and then HS dose maintenance (off label use) but keeping primary diagnosis as Plaque Psoriasis. Physician\nhas sent a new prescription with 160 mg week 0, 80 mg week 2 followed by 40 mg weekly starting week 4, it was reported \"Abriladat\n1/DF, Week 0 160 mg, week 2 - 80mg, then 40 mg every week starting week 4 - not started yet\". On 05Jul2022, the pharmacist\nreported that the patient experienced a recent infection abscess for which she had to take antibiotics. She also had a bit of redness at\nthe injection site. As of 29Jul2022, the patient stated her HS has been worse, had 6-7 incidents since starting, had not had any for a\nwhile. Hoping now that she is through the loading phase and on weekly injections it calms down\n\nThe information on the batch/lot number for adalimumab has been requested and will be submitted if and when received.\nFollow-up (28Jun2022 and 28Jun2022): These are follow-up spontaneous reports from contactable reporter(s) (Physician), Program\nID: (172660). Updated information included: the patient's medical history (added Plaque Psoriasis), suspect drug data (added\nindication of \"Hidradenitis Suppurativa\"), reaction data (event details for \"Injection side redness\", added new events of \"Drug\nineffective, Off label dosing amount and Off label dosing frequency\")\n\nNo follow-up attempts are needed; information about lot/batch number cannot be obtained. No further information is expected,\nFollow-up (05Jul2022): This is a follow-up spontaneous report from a contactable pharmacist. Updated information: course of events\n\n(\u2018recent infection abscess for which she had to take antibiotics\u2019).\n\n10-Aug-2022 02:00\n"
+    },
+    {
+      "page_number": 3,
+      "text": "Page 3 of 3\nMfr. Control Number: 202200902755\nADDITIONAL INFORMATION\nT\n7+13. DESCRIBE REACTION(S) continued\nThe information on the batch/lot number for adalimumab has been requested and will be submitted if and when received.\nFollow-up (12Jul2022): Follow-up attempts are completed. No further information is expected.\nFollow-up (29Jul2022): This is a follow-up spontaneous report from a Pfizer-sponsored program [172660] received from a contactable\nPhysician (consumer).\nUpdated information includes: past drug history and clinical course details.\nNo follow-up attempts are needed. No further information is expected. F\nFollow-up (05Aug2022) This is a follow-up spontaneous report from a Pfizer sponsored program (172660) received from a\ncontactable Consumer.\nUpdated information included:\nConcomitant medication Bimekizumab was added.\nNew event of \"Sensitive skin (Medically significant)\", Outcome: Unknown\nNew event of \"Rash\", Outcome: Not recovered/Not resolved, Onset date: 29Jul2022\nAdditional information: A\nPatient sent an email to the program stating that she broke out in a rash (upper leg, mid section, chest and arms) since 29Jul2022,\nher skin is very sensitive and the rash is still present. Patient asked if this could be related to the Abrilada.\n14-19. SUSPECT DRUG(S) continued\n15. DAILY DOSE(S); 18. THERAPY DATES (from/to);\n14. SUSPECT DRUG(S) (include generic name) 16. ROUTE(S) OF ADMIN 17. INDICATION(S) FOR USE 19. THERAPY DURATION\n#1 ) Abrilada (ADALIMUMAB) Solution for week 0 dose, then 40 mg Plaque Psoriasis (Psoriasis) 15-JUN-2022 /\ninjection in pre-filled pen; Regimen #1 every other week; Hidradenitis Suppurativa 15-JUN-2022;\nSubcutaneous (Hidradenitis) 1 day\nR\n#1 ) Abrilada (ADALIMUMAB) Solution for 80 mg, week 0 dose Plaque Psoriasis (Psoriasis) 15-JUN-2022 /\ninjection in pre-filled pen; Regimen #2 Prefilled pen; Hidradenitis Suppurativa 15-JUN-2022;\nSubcutaneous (Hidradenitis) 1 day\n#1 ) Abrilada (ADALIMUMAB) Solution for 1 DF, Week 0 80mg, then Plaque Psoriasis (Psoriasis) 23-JUN-2022 /\ninjection in pre-filled pen; Regimen #3 40 mg every other week; Hidradenitis Suppurativa Unknown;\nSubcutaneous (Hidradenitis) Unknown\n#1 ) Abrilada (ADALIMUMAB) Solution for 1 DF (Week 0 160 mg, Plaque Psoriasis (Psoriasis) 23-JUN-2022 /\nD\ninjection in pre-filled pen; Regimen #4 week 2 - 80mg, then 40 Hidradenitis Suppurativa Ongoing;\nmg every week starting (Hidradenitis) Unknown\nweek 4 - Prefilled pen);\nSubcutaneous\n23. OTHER RELEVANT HISTORY continued\nFrom/To Dates Type of History / Notes Description\nUnknown Past Drug Event bimekizumab (BIMEKIZUMAB); Drug Reaction: Adverse reaction\n(Adverse reaction)\nAdverse reaction to bimekizumab (Bimzelx, anti-IL17A, anti-IL-17F, and anti-IL17AF\nmonoclonal antibody)\n10-Aug-2022 02:00",
+      "tables": [
+        [
+          {
+            "#1 ) Abrilada (ADALIMUMAB) Solution for": "injection in pre-filled pen; Regimen #1",
+            "week 0 dose, then 40 mg": "every other week;",
+            "Plaque Psoriasis (Psoriasis)": "Hidradenitis Suppurativa",
+            "15-JUN-2022 /": "15-JUN-2022;"
+          },
+          {
+            "#1 ) Abrilada (ADALIMUMAB) Solution for": NaN,
+            "week 0 dose, then 40 mg": "Subcutaneous",
+            "Plaque Psoriasis (Psoriasis)": "(Hidradenitis)",
+            "15-JUN-2022 /": "1 day"
+          },
+          {
+            "#1 ) Abrilada (ADALIMUMAB) Solution for": "#1 ) Abrilada (ADALIMUMAB) Solution for",
+            "week 0 dose, then 40 mg": "80 mg, week 0 dose",
+            "Plaque Psoriasis (Psoriasis)": "Plaque Psoriasis (Psoriasis)",
+            "15-JUN-2022 /": "15-JUN-2022 /"
+          },
+          {
+            "#1 ) Abrilada (ADALIMUMAB) Solution for": "injection in pre-filled pen; Regimen #2",
+            "week 0 dose, then 40 mg": "Prefilled pen;",
+            "Plaque Psoriasis (Psoriasis)": "Hidradenitis Suppurativa",
+            "15-JUN-2022 /": "15-JUN-2022;"
+          }
+        ]
+      ],
+      "ocr_result": "Page 3 of 3\nMfr. Control Number: 202200902755\n\nADDITIONAL INFORMATION\n\n7#13, DESCRIBE REACTION(S) continued\nThe information on the batch/lot number for adalimumab has been requested and will be submitted if and when received.\n\nFollow-up (12Jul2022): Follow-up attempts are completed. No further information is expected.\n\nFollow-up (20Jul2022): This is a follow-up spontaneous report from a Pfizer-sponsored program [172660] received from a contactable\nPhysician (consumer).\nUpdated information includes: past drug history and clinical course details.\n\nNo follow-up attempts are needed. No further information is expected\n\nFollow-up (05Aug2022) This is a follow-up spontaneous report from a Pfizer sponsored program (172660) received from a\ncontactable Consumer.\n\nUpdated information included:\n\nConcomitant medication Bimekizumab was added.\n\nNew event of \"Sensitive skin (Medically significant)\", Outcome: Unknown,\n\nNew event of \"Rash\", Gutcome: Not recovered/Not resolved, Onset date: 29Jul2022\n\nAdditional information:\nPatient sent an email to the program stating that she broke out in a rash (upper leg, mid section, chest and arms) since 28Jul2022,\nher skin is very sensitive and the rash is still present. Patient asked if this could be related to the Abrilada\n\n14-19. SUSPECT DRUG(S) continued\n\n14 SUSPECT ORUGG) include generic name) 18 ROUTEIS) OF AON 17. INDICATION(S) FOR USE 1B THERAPY DURATION\n#1 ) Abrilada (ADALIMUMAB) Solution for week 0 dose, then 401mg... Plaque Psoriasis (Psoriasis) __15-JUN-2022/\ninjection in pre-filled pen; Regimen #1 every other week; Hidradenitis Suppurativa 15-JUN-2022;\nSubcutaneous (Hidradenitis) 1 day\n#1 ) Abrilada (ADALIMUMAB) Solution for 80 mg, week 0 dose Plaque Psoriasis (Psoriasis) 15-JUN-2022 /\ninjection in pre-filled pen; Regimen #2 Prefilled pen; Hidradenitis Suppurativa 15-JUN-2022;\nSubcutaneous (Hidradenitis) 1 day\n#1 ) Abrilada (ADALIMUMAB) Solution for 1 DF, Week 0 80mg, then. Plaque Psoriasis (Psoriasis) 23-JUN-2022/\ninjection in pre-filled pen; Regimen #3 40 mg every other week, Hidradenitis Suppurativa Unknown:\nSubcutaneous (Hidradenitis) Unknown\n#1 ) Abrilada (ADALIMUMAB) Solution for 1DF (Week 0 160mg, Plaque Psoriasis (Psoriasis) 23-JUN-2022/\ninjection in pre-filled pen; Regimen #4 week 2- 80mg, then 40 Hidradenitis Suppurativa Ongoing:\nmg every week starting (Hidradenitis) Unknown\nweek 4 - Prefilled pen);\nSubcutaneous\n\n23. OTHER RELEVANT HISTORY continued\n\nFromfTo Dates Type of History / Notes Description\n\nUnknown Past Drug Event bimekizumab (BIMEKIZUMAB), Drug Reaction: Adverse reaction\n(Adverse reaction)\nAdverse reaction to bimekizumab (Bimzelx, anti-IL17A, anti-IL-17F, and anti-IL17AF\nmonoclonal antibody)\n\n10-Aug-2022 02:00\n"
+    }
+  ]
+}
